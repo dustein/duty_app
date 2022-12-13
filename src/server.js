@@ -13,5 +13,5 @@ app.get('/rota', (req, res) => {
   res.send('está na ROTA')
 })
 
-app.listen(3030, () => { console.log('Servidor AWS Rodando porta 3030') });
+app.listen(3333, () => { console.log('Servidor AWS Rodando porta 3333') });
 
